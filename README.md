@@ -1,2 +1,3 @@
-# This will be a website of random things.
-If you would like to help, contact Mucne34 @ hahahabookteam2@gmail.com
+# Website
+This will be a HTML website, with some CSS being used.
+If you would like to help, contact Munce34 @ hahahabookteam2@gmail.com
