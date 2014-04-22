@@ -1,3 +1,12 @@
 *{
 	font-family:cursive;
 }
+
+a {
+	text-decoration:none;
+	border:2px solid orange;
+}
+
+body {
+	border:2px solid orange;
+}
